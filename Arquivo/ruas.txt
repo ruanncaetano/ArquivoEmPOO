@@ -1,0 +1,15 @@
+1356;021;Osvaldo Casari
+2458;012;Rua da Liberdade
+3721;034;Avenida Paulista
+1984;027;Rua Augusta
+5692;018;Rua das Flores
+4231;045;Alameda Santos
+8903;023;Rua Barão de Itapetininga
+7521;016;Rua Brigadeiro Luís Antônio
+6354;039;Rua Vieira de Carvalho
+9876;020;Rua XV de Novembro
+1234;011;Rua Direita
+4567;032;Rua São Bento
+3210;043;Rua Augusta
+6789;024;Rua da Consolação
+5432;015;Rua Regente Feijó
